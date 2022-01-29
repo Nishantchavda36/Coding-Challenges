@@ -15,5 +15,5 @@ function firstRecurringEle(arr){
 }
 
 
-let x = firstRecurringEle([2,1,3,4,5,1,5])
+let x = firstRecurringEle([1,2,3,4,5,4,2])
 x

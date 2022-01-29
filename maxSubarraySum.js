@@ -16,7 +16,6 @@ function maxSubarraySum (arr,n){
     }
     
     return maxSum
-                
-   
 }
 let x =  maxSubarraySum([1,2,3,4,5,8,3,15,11,3,15],2) 
+x
