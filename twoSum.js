@@ -51,5 +51,5 @@ let twoSum = (arr, targetSum) => {
       diff = targetSum - num
       seen[diff] = i;
   }
-  
+ 
  }
